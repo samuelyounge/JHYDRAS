@@ -1,7 +1,7 @@
 # JHYDRAS
 A modern approach to classic text based gaming.
 
-## Reference implementation
+## Reference Implementation
 The Reference Implementation of JHYDRAS is located at ssh://jhydras.com.
 
 ## Summary
