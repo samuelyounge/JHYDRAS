@@ -24,12 +24,13 @@ Installing the system is complicated but, an automated script is provided to gre
 4. Enter "cd ~/Downloads".
 5. Enter "git clone git@github.com:samuelyounge/JHYDRAS.git".
 6. Enter "cd JHYDRAS".
-7. Enter "./install.sh" (do NOT run with sudo or as "root").
-8. Enter "ssh -p 2222 localhost".
-9. Game administrator username = "god".
-10. Game administrator password = "123".
-11. Enter "help".
-12. Change "god" password.
+7. Enter "chmod u+rx ./install.sh".
+8. Enter "./install.sh" (do NOT run with sudo or as "root").
+9. Enter "ssh -p 2222 localhost".
+10. Game administrator username = "god".
+11. Game administrator password = "123".
+12. Enter "help".
+13. Change "god" password.
 
 ## Additional information
 Additional information may be found by visiting https://www.jhydras.com/.
