@@ -2,7 +2,7 @@
 A modern approach to classic text based gaming.
 
 ## Reference Implementation
-The Reference Implementation of JHYDRAS is located at ssh://jhydras.com.
+The Reference Implementation of JHYDRAS is located at ssh://jhydras.com:2222.
 
 ## Summary
 JHYDRAS is a modern (2023+) text based game.  It is primarily written in .NET C# but, depends on a number of opensource sub-projects written in various programming languages.  It uses xTerm terminal emulation, SSH, AI NLP, a NoSQL database, an on-line creation system, an on-line help system, an Ethereum player payment system, and dynamic human language translation.
